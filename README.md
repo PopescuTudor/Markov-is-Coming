@@ -1,5 +1,5 @@
 # Markov-is-Coming
-Un algoritm in OCTAVE care ghideaza un robot in afara labirintului.
+Un algoritm in OCTAVE care ghideaza un robot in afara labirintului, folosind lantul lui Markov.
 
 Primul pas este sa parsam labirintul aflat in fisierul de intrare, deschis pt. citire. Utilizez functia fscanf() pt a citi dimensiunile de pe prima linie si matricea ce urmeaza.
 
